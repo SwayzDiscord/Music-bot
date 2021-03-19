@@ -1,2 +1,2 @@
-Language = "Node.js"
+Language = "node.js"
 Start = *npm start"
